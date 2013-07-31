@@ -1,1 +1,1 @@
-<teste></teste>conflito rolando
+<teste></teste>conflito rolando!!!

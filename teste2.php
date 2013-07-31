@@ -1,4 +1,1 @@
-<?php 
-echo "dshjkfgooooooooooooo";
-echo "asdsda";
- ?>
+Failed to acquire lock for git repository.

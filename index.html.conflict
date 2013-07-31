@@ -5,6 +5,10 @@
 	<body>
 		<h1 id="">HTML MAIS MODERNO DO MUNDO....teste</h1>
 		<h12>VAMOS TESTAR</h12>
+<<<<<<< HEAD
+		<h1 id="">HTML MAIS MODERNO DO MUNDO....LUCRÉTHAAAAAs...qqr coisa</h1>
+=======
 		<h1 id="">HTML MAIS MODERNO DO MUNDO....LUCRÉT</h1>
+>>>>>>> 6f529f9700aad86853598a272c4928066efb4dcc
 	</body>
 </html>

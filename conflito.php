@@ -1,1 +1,1 @@
-<teste>dsfsdfsd</teste>asd
+<teste>teste de conflito</teste>asd

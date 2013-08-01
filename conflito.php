@@ -1,1 +1,1 @@
-<teste>teste de conflito mais outro teste</teste>asd
+<teste>teste de conflito mais outro teste v3</teste>asd

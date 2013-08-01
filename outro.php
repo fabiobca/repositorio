@@ -1,1 +1,1 @@
-<?php echo "o outro!!!";   ?>
+<?php echo "o outro!!! trb certo";   ?>

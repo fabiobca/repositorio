@@ -1,1 +1,1 @@
-<teste>teste de conflito</teste>asd tatoto
+<teste>teste de conflito mais outro teste</teste>asd
